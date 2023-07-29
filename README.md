@@ -1,0 +1,1 @@
+Hello. This is another project dedicated from the Odin Project that will be helping me showcase my CSS skills.
